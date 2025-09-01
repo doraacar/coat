@@ -72,7 +72,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      value: 'info@procoatsolutions.com',
+      value: 'info@arepoxy.com',
       description: 'We respond within 2 hours'
     },
     {

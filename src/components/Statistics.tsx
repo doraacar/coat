@@ -109,7 +109,7 @@ const Statistics = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Why Choose ProCoat Solutions?
+            Why Choose A&R Epoxy Coating?
           </h2>
           <p className="text-xl text-white/80 max-w-3xl mx-auto leading-relaxed">
             With years of experience and thousands of satisfied customers, we're the trusted choice 
