@@ -36,7 +36,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="lg:col-span-1">
-            <h3 className="text-2xl font-bold mb-4">A&R Epoxy Coating</h3>
+            <h3 className="text-2xl font-bold mb-4">Vivid Coatings</h3>
             <p className="text-white/80 mb-6 leading-relaxed">
               Professional floor coatings that last. Transforming spaces with 
               durable, beautiful, and long-lasting floor solutions since 2009.
@@ -50,7 +50,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary" />
-                <span className="text-white/90">info@arepoxy.com</span>
+                <span className="text-white/90">vividcoatingsllc@gmail.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-primary" />
@@ -144,7 +144,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-white/60">
             <p>
-              © {currentYear} A&R Epoxy Coating. All rights reserved. | 
+              © {currentYear} Vivid Coatings. All rights reserved. | 
               <span className="text-primary font-medium"> Professional Floor Coatings That Last</span>
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">

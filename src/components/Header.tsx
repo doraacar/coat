@@ -49,7 +49,7 @@ const Header = () => {
               onClick={() => scrollToSection('#home')}
               className="text-2xl lg:text-3xl font-bold text-foreground hover:text-primary transition-colors"
             >
-              A&R Epoxy Coating
+              Vivid Coatings
             </button>
           </div>
 
