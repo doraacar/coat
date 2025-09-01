@@ -72,7 +72,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      value: 'info@arepoxy.com',
+      value: 'vividcoatingsllc@gmail.com',
       description: 'We respond within 2 hours'
     },
     {
